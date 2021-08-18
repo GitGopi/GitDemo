@@ -12,7 +12,14 @@ public class Demo {
 		driver.get("http://google.com");
 		System.out.println("Successully executed");
 		
+		driver.get("http://Facebook.com");
+		System.out.println("Successully executed");
+		
+		driver.get("http://Amazon.com");
+		System.out.println("Successully executed");
 			
 	}
-
+	
+	
+	
 }
