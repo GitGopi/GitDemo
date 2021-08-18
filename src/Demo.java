@@ -10,6 +10,8 @@ public class Demo {
 		WebDriver driver = new ChromeDriver();
 		
 		driver.get("http://google.com");
+		System.out.println("Successully executed");
+		
 			
 	}
 
